@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SeneheNiwasaBackUp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SeneheNiwasaBackUp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
